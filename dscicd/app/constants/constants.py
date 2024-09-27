@@ -1,4 +1,0 @@
-MASTER_QUESTIONS_COLLECTION = "MasterDiscoveryQuestions"
-TRANSACT_QUESTIONS_COLLECTION = "TransactDiscoveryQuestions"
-OPPORTUNITIES_COLLECTION = "Opportunities"
-COMPANY_COLLECTION = "Company"
